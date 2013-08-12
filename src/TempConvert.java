@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ThisIsMyClassName { 
+public class TempConvert { 
 
 	public static void main(String[] args) {
 		// -------INSTRUCTIONS-------
